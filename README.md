@@ -26,6 +26,7 @@ people built and shared for the joy of it.
 |---|---|---|---|---|---|
 | **4th Floor Studio** | Brendon Coyle (QuiteNice) | Photorealistic 3D scan of a real studio apartment — the classic "presence" demo | [Wayback page w/ downloads](http://web.archive.org/web/20190919042904/https://www.quitenice.co/blog/2014/8/3/4thflrstudio) · [Dropbox (SDK 0.7)](https://www.dropbox.com/s/nxxjwwt0qsc700f/4thFlrStudioVR%28SDKv0.7.0.0%29.zip?dl=0) · [Vive edition](https://www.dropbox.com/s/u2te1115smb9aac/4thFlrStudioVR%28ViveEdition%29.zip?dl=0) · [Quest APK](https://www.dropbox.com/s/vooug7fuodnt20w/QuiteNice_4thFlrStudio.apk?dl=0) | 🟡/✅ | 215 MB. Has a DK2 (SDK 0.7), a Vive, and a standalone Quest build. |
 | **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | [Official site](https://www.benoitdereau.com/) · [Wayback (1.3 w/ Oculus build)](http://web.archive.org/web/20150403090140/http://www.benoitdereau.com:80/unrealparis.html) | 🟡/✅ | Original had Windows / Oculus / Android builds. 2018 update supports Rift + Vive. |
+| **Jerry's Place** | Greg Miller | A lovingly detailed recreation of Jerry's apartment from *Seinfeld* — explore the iconic set, with 11 hidden episode references | [Official site](http://jerrysplacevr.com/) · [RoadToVR writeup](https://www.roadtovr.com/seinfeld-apartment-for-oculus-rift-download/) | ✅ | Built in Unity for DK1/DK2. Free for Windows/Mac/Linux. The quintessential "interesting space." |
 | **Arch Virtual — Residential Condo** | Arch Virtual | Explorable condo arch-viz with material/color config, built in Unity 5 (Immerse) | [Blog + DK2 download](https://archvirtual.com/2015/11/10/architectural-visualization-virtual-reality/) · [Demo page](https://archvirtual.com/architectural-visualization-demo/) | ⚪ | DK2 build. Studio later shipped *Arch Virtual HQ* free on Steam. |
 | **Realities** | Realities.io | Modern photogrammetry walkthroughs of real-world scanned locations — the spiritual successor to the scan demos | [Steam (free)](https://store.steampowered.com/app/420170/Realities/) · [realities.io](https://realities.io) | ⚪ | Vive/Rift/Index. Free. The best modern parallel to 4th Floor Studio. |
 
@@ -70,6 +71,70 @@ people built and shared for the joy of it.
 
 ---
 
+## Official tech showcases & launch demos (free, any modern headset)
+
+The "show a friend what VR can do" demos — first-party and big-studio showcases. All free on
+SteamVR (Rift / Vive / Index / Quest via Link), no legacy runtime needed.
+
+| Demo | Creator | What it is | Link | Status |
+|---|---|---|---|---|
+| **NVIDIA VR Funhouse** | NVIDIA | Carnival mini-games built as a flagship GPU/physics showpiece (PhysX, FleX, hair, fluids) | [Steam (free)](https://store.steampowered.com/app/468700/NVIDIA_VR_Funhouse/) | ⚪ |
+| **Trials on Tatooine** | ILMxLAB / Lucasfilm | Deflect blaster bolts with a lightsaber beside the Millennium Falcon | [Steam (free)](https://store.steampowered.com/app/381940/Trials_on_Tatooine/) | ⚪ |
+| **Back to Dinosaur Island** | Crytek | Meet a baby dino face-to-face (Pt.1), then a T-rex on a cliff ledge (Pt.2) — CryEngine showcases | [Part 1](https://store.steampowered.com/app/412940/Back_to_Dinosaur_Island/) · [Part 2](https://store.steampowered.com/app/452640/Back_to_Dinosaur_Island_Part_2/) | ⚪ |
+| **Portal Stories: VR** | Prism Studios | Fan-made *Portal*-universe puzzle showcase using VR mechanics | [Steam (free)](https://store.steampowered.com/app/446750/Portal_Stories_VR/) | ⚪ |
+| **Oculus First Contact** | Oculus VR | The beloved Touch intro — a friendly 1980s robot hands you toys to play with | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ | 
+| **Oculus Dreamdeck** | Oculus VR | A reel of "wow" vignettes (T-rex, city rooftop, giant by a campfire) | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ |
+
+> *First Contact* and *Dreamdeck* now install with the **Oculus/Meta PC app** (Library ▸ Tutorials) rather than a standalone download.
+
+---
+
+## Cinematic & animated VR shorts (free)
+
+Sit-down narrative pieces from the brief golden age of VR film studios.
+
+| Short | Studio | What it is | Link | Status |
+|---|---|---|---|---|
+| **Invasion!** | Baobab Studios | Ethan Hawke-narrated short — two aliens vs. one fearless bunny; Cannes/Tribeca selection | [Steam (free)](https://store.steampowered.com/app/503630/INVASION/) | ⚪ |
+| **Allumette** | Penrose Studios | Wordless *Little Match Girl* fable in a floating city; one of the longest early VR films | [Steam (free)](https://store.steampowered.com/app/460850/Allumette/) | ⚪ |
+| **Dear Angelica** | Oculus Story Studio | Emmy-nominated film drawn entirely inside VR with Quill — unfolds in hand-painted strokes | [Meta Store (free)](https://www.meta.com/experiences/dear-angelica/2725629380835491/) | ⚪ |
+| **Henry** | Oculus Story Studio | Emmy-winning short about a lonely hedgehog's birthday (narr. Elijah Wood) | [Meta Store (free)](https://www.meta.com/experiences/henry/1043217179077622/) | ⚪ |
+| **Lost** | Oculus Story Studio | The studio's first film — a robot hand searching the moonlit woods | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Story_Studio) | ❌ |
+| **The Night Cafe** | Borrowed Light Studios | Step *inside* Van Gogh's paintings, rebuilt in 3D — Oculus VR Jam 2015 winner | [Steam (free)](https://store.steampowered.com/app/482390/The_Night_Cafe_A_VR_Tribute_to_Vincent_Van_Gogh/) | ⚪ |
+
+---
+
+## Space, science & "interesting places"
+
+Educational walkthroughs that scratch the same "be somewhere real/impossible" itch as the scan demos.
+
+| Experience | Creator | What it is | Link | Status |
+|---|---|---|---|---|
+| **Titans of Space** | DrashVR | The famous holographic tour of the solar system and largest known stars; #1 on old Oculus Share for months | [Steam (PLUS)](https://store.steampowered.com/app/468820/Titans_of_Space_PLUS/) · [stv.re info](http://stv.re/wp/titans-of-space/) | ⚪ | 
+| **Mission: ISS** | Magnopus (for Oculus) | Float through a true-to-life International Space Station; dock a capsule and spacewalk | [Meta Store (free)](https://www.meta.com/experiences/apollo-11/2164469606967296/) | ⚪ |
+| **The Body VR: Journey Inside a Cell** | The Body VR | Travel the bloodstream and inside a living cell — a beloved free showcase | [Steam (free)](https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/) | ⚪ |
+| **The VR Museum of Fine Art** | Finn Sinclair | Walk a gallery of masterworks at 1:1 scale — get nose-close to the Mona Lisa & Starry Night | [Steam (free)](https://store.steampowered.com/app/515020/The_VR_Museum_of_Fine_Art/) | ⚪ |
+
+> *Titans of Space*'s original DK1/DK2 build was free; the current *PLUS* edition is a low-cost paid release.
+
+---
+
+## Classic games reborn in VR (free fan mods & source ports)
+
+Community-built VR conversions of beloved flat games — pure homebrew spirit, and all free
+(some need you to own the base game). These run on modern SteamVR headsets.
+
+| Mod | By | What it is | Link | Status |
+|---|---|---|---|---|
+| **Half-Life 2: VR Mod** | Source VR Mod Team | Full motion-controlled VR conversion of HL2 (+ Episodes); free if you own HL2 | [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) · [site](https://halflife2vr.com/) | ✅ |
+| **DOOM 3 BFG VR: Fully Possessed** | KozGit / Dr.Beef | Roomscale, motion-controlled DOOM 3 BFG in VR | [GitHub releases](https://github.com/KozGit/DOOM-3-BFG-VR/releases) | ✅ |
+| **Quake II VR** | q2vr team | The classic shooter with full stereoscopic VR + tracking | [GitHub releases](https://github.com/q2vr/quake2vr/releases/) | ✅ |
+| **Vivecraft** | jrbudda & team | Minecraft (Java) in roomscale VR with motion controls — a perennial favorite | [vivecraft.org](https://www.vivecraft.org/) | ✅ |
+| **MotherVR** | Nibre | Adds VR head-tracking to *Alien: Isolation* — one of the most atmospheric VR conversions | [GitHub releases](https://github.com/Nibre/MotherVR/releases) | ✅ |
+| **RiftRay** | jimbo00000 | A real-time raymarched fractal-scene VR demo (also a nice DK2-era code reference) | [GitHub releases](https://github.com/jimbo00000/RiftRay/releases) | ✅ |
+
+---
+
 ## Still-free modern PC VR experiences (same spirit, any headset)
 
 These run on current hardware via SteamVR — great for the "interesting spaces / show a
@@ -84,6 +149,8 @@ friend" vibe without legacy-runtime hassle.
 | **Colosse: A VR Fairytale** | Fire Panda | Animated VR short | [Steam (free)](https://store.steampowered.com/app/541050/Colosse_A_VR_Fairytale/) | ⚪ |
 | **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | [Official](https://kiteandlightning.la/senza-peso/) | ⚪ |
 | **Arch Virtual HQ** | Arch Virtual | Free arch-viz showcase from the Residential Condo makers | [Steam (free)](https://store.steampowered.com/app/608980/Arch_Virtual_HQ/) | ⚪ |
+| **Cosmic Sugar** | Brian Peiris | Hypnotic particle-field toy — grab, fling, and orbit glowing clouds of light | [Steam (free)](https://store.steampowered.com/app/559010/Cosmic_Sugar_VR/) | ⚪ |
+| **Irrational Exuberance: Prologue** | Buffalo Vision | Atmospheric sci-fi vignette set adrift in space; an early roomscale standout | [Steam (free)](https://store.steampowered.com/app/343730/Irrational_Exuberance_Prologue/) | ⚪ |
 
 ---
 
@@ -112,6 +179,9 @@ Also handy on archive.org:
 - **Steam Curator — Free VR Experiences:** [store.steampowered.com/curator/33078311](https://store.steampowered.com/curator/33078311-Free-VR-Experiences/)
 - **RoadToVR — best free VR experiences:** [roadtovr.com](https://www.roadtovr.com/best-free-vr-games-experiences-pc-htc-vive-oculus-rift/)
 - **UploadVR — best free VR experiences:** [uploadvr.com](https://www.uploadvr.com/best-free-vr-experiences/)
+- **VRborg — (Unfinished) list of free Oculus Rift games & apps:** [vrborg.com](https://vrborg.com/games/the-unfinished-list-of-free-oculus-rift-vr-games-and-apps) — large, link-rich
+- **360Rumors — 18 free games to demo your HTC Vive:** [360rumors.com](https://360rumors.com/18-free-games-to-demo-your-htc-vive/)
+- **PCWorld — 41 best Oculus Rift games, demos & experiences:** [pcworld.com](https://www.pcworld.com/article/440252/the-41-best-oculus-rift-virtual-reality-games-demos-and-experiences.html)
 - **The Rift Arcade — DK2 supported games list** (now offline; try Wayback): `theriftarcade.com/oculus-rift-dk2-supported-games`
 - **Oculus/Meta community forums — "DK2 Compatible Demos and Games"** (login-walled now): thread id `192031`
 

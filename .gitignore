@@ -1,0 +1,12 @@
+# Downloaded demo binaries / archives — too large for git, host separately
+/downloads/
+*.zip
+*.7z
+*.rar
+*.exe
+*.msi
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.claude/
