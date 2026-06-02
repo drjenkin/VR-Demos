@@ -101,6 +101,8 @@ Sit-down narrative pieces from the brief golden age of VR film studios.
 | **Henry** | Oculus Story Studio | Emmy-winning short about a lonely hedgehog's birthday (narr. Elijah Wood) | [Meta Store (free)](https://www.meta.com/experiences/henry/1043217179077622/) | ⚪ |
 | **Lost** | Oculus Story Studio | The studio's first film — a robot hand searching the moonlit woods | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Story_Studio) | ❌ |
 | **The Night Cafe** | Borrowed Light Studios | Step *inside* Van Gogh's paintings, rebuilt in 3D — Oculus VR Jam 2015 winner | [Steam (free)](https://store.steampowered.com/app/482390/The_Night_Cafe_A_VR_Tribute_to_Vincent_Van_Gogh/) | ⚪ |
+| **La Camila: A VR Story** | 3DAR | A tender ~20-min animated tale — help Camila and her father spin clouds from sheep's wool above a floating mountaintop farm | [Steam (free)](https://store.steampowered.com/app/770090/La_Camila_A_VR_Story/) | ⚪ |
+| **Google Spotlight Stories** | Google ATAP | Collection of acclaimed animated VR shorts — *Pearl* (Emmy-winning, Oscar-nominated), *Sonaria*, *Back to the Moon* | [Pearl](https://store.steampowered.com/app/476540/Google_Spotlight_Stories_Pearl/) · [Sonaria](https://store.steampowered.com/app/713320/Google_Spotlight_Stories_Sonaria/) · [Back to the Moon](https://store.steampowered.com/app/832080/Google_Spotlight_Stories_Back_to_the_Moon/) | ⚪ |
 
 ---
 
@@ -114,6 +116,7 @@ Educational walkthroughs that scratch the same "be somewhere real/impossible" it
 | **Mission: ISS** | Magnopus (for Oculus) | Float through a true-to-life International Space Station; dock a capsule and spacewalk | [Meta Store (free)](https://www.meta.com/experiences/apollo-11/2164469606967296/) | ⚪ |
 | **The Body VR: Journey Inside a Cell** | The Body VR | Travel the bloodstream and inside a living cell — a beloved free showcase | [Steam (free)](https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/) | ⚪ |
 | **The VR Museum of Fine Art** | Finn Sinclair | Walk a gallery of masterworks at 1:1 scale — get nose-close to the Mona Lisa & Starry Night | [Steam (free)](https://store.steampowered.com/app/515020/The_VR_Museum_of_Fine_Art/) | ⚪ |
+| **Buzz Aldrin: Cycling Pathways to Mars** | 8i / LIFE VR / TIME | Buzz Aldrin's hologram personally walks you from the Moon to his plan for colonizing Mars | [Steam (free)](https://store.steampowered.com/app/608000/Buzz_Aldrin_Cycling_Pathways_to_Mars/) | ⚪ |
 
 > *Titans of Space*'s original DK1/DK2 build was free; the current *PLUS* edition is a low-cost paid release.
 
@@ -151,6 +154,32 @@ friend" vibe without legacy-runtime hassle.
 | **Arch Virtual HQ** | Arch Virtual | Free arch-viz showcase from the Residential Condo makers | [Steam (free)](https://store.steampowered.com/app/608980/Arch_Virtual_HQ/) | ⚪ |
 | **Cosmic Sugar** | Brian Peiris | Hypnotic particle-field toy — grab, fling, and orbit glowing clouds of light | [Steam (free)](https://store.steampowered.com/app/559010/Cosmic_Sugar_VR/) | ⚪ |
 | **Irrational Exuberance: Prologue** | Buffalo Vision | Atmospheric sci-fi vignette set adrift in space; an early roomscale standout | [Steam (free)](https://store.steampowered.com/app/343730/Irrational_Exuberance_Prologue/) | ⚪ |
+
+---
+
+## More free PCVR games & experiences (any headset, via Steam)
+
+Community picks — free experiences and indie games that run on any modern SteamVR headset
+(Rift / Vive / Index / Quest via Link), no legacy runtime needed.
+
+| Title | What it is | Link | Status |
+|---|---|---|---|
+| **Aircar** | Fly a hovercar through a rain-soaked *Blade Runner*-style city — pure chill exploration | [Steam (free)](https://store.steampowered.com/app/1073390/Aircar/) | ⚪ |
+| **The Red Stare** | A 1950s NYC stakeout — spy on the apartments across the street to unmask a Red agent (award-winning) | [Steam (free)](https://store.steampowered.com/app/625470/The_Red_Stare/) | ⚪ |
+| **Toran** | Short sci-fi puzzle adventure — a scientist stranded on an alien moon | [Steam (free)](https://store.steampowered.com/app/720300/Toran/) | ⚪ |
+| **Heart of the Emberstone: Coliseum** | A free telekinetic-powers playground carved out of Cloudhead's *The Gallery — Ep. 2* | [Steam (free)](https://store.steampowered.com/app/767690/Heart_of_the_Emberstone_Coliseum/) | ⚪ |
+| **Yupitergrad: Sneaki Peaki** | Free demo of the sovietpunk grappling-hook acrobatics game aboard a Jupiter space station | [Steam (free)](https://store.steampowered.com/app/1579120/Yupitergrad__Sneaki_Peaki_Virtual_Reality_Adventure/) | ⚪ |
+| **Bow to Blood: Last Captain Standing** | Command an airship through a deadly reality-TV competition (full game, free; VR optional) | [Steam (free)](https://store.steampowered.com/app/956500/Bow_to_Blood_Last_Captain_Standing/) | ⚪ |
+| **Nemesis Perspective** | Asymmetric 1v1 — the VR player is a giant boss, the screen player is the hero | [Steam (free)](https://store.steampowered.com/app/537140/Nemesis_Perspective/) | ⚪ |
+| **The Ranger: Lost Tribe** | Free-to-play VR action-RPG with melee, stealth and open-ish exploration | [Steam (free)](https://store.steampowered.com/app/673070/The_Ranger_Lost_Tribe/) | ⚪ |
+| **Deadly Hunter VR** | Archery wave-defense from the same dev as *The Ranger* | [Steam (free)](https://store.steampowered.com/app/594490/Deadly_Hunter_VR/) | ⚪ |
+| **Glorious Noon** | Wave-based sword-and-magic hack-'n'-slash | [Steam (free)](https://store.steampowered.com/app/724870/Glorious_Noon/) | ⚪ |
+| **FPS Infinite** | A fully-free, procedurally-generated *Metroid Prime*-style shooter by Phr00t (VR optional) | [Steam (free)](https://store.steampowered.com/app/1256380/FPS_Infinite/) | ⚪ |
+| **Lazerbait** | Addictive minimalist RTS — grow ships and conquer planets | [Steam (free)](https://store.steampowered.com/app/529150/Lazerbait/) | ⚪ |
+| **Blacktop Hoops** | Free street-basketball with surprisingly deep dribble/dunk mechanics | [Steam](https://store.steampowered.com/app/1945250/Blacktop_Hoops/) | ⚪ |
+| **Open Brush** | The free, open-source, community-led continuation of Google's *Tilt Brush* — paint in 3D space | [Steam (free)](https://store.steampowered.com/app/1634870/Open_Brush/) · [GitHub](https://github.com/icosa-foundation/open-brush) | ✅ |
+| **Republique VR** | Acclaimed 5-episode stealth game reworked for VR — **free if you own the base *Republique*** | [Steam](https://store.steampowered.com/app/915200/Republique_VR/) | ⚪ |
+| **Memories From Beyond a Coral Sea** | Gorgeous short voyage through mystical Pacific islands — *launched free; now a low-cost paid app* | [Steam](https://store.steampowered.com/app/2318280/) | ⚪ |
 
 ---
 
