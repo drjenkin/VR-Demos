@@ -178,7 +178,6 @@ Community picks — free experiences and indie games that run on any modern Stea
 | **Lazerbait** | Addictive minimalist RTS — grow ships and conquer planets | [Steam (free)](https://store.steampowered.com/app/529150/Lazerbait/) | ⚪ |
 | **Blacktop Hoops** | Free street-basketball with surprisingly deep dribble/dunk mechanics | [Steam](https://store.steampowered.com/app/1945250/Blacktop_Hoops/) | ⚪ |
 | **Open Brush** | The free, open-source, community-led continuation of Google's *Tilt Brush* — paint in 3D space | [Steam (free)](https://store.steampowered.com/app/1634870/Open_Brush/) · [GitHub](https://github.com/icosa-foundation/open-brush) | ✅ |
-| **Republique VR** | Acclaimed 5-episode stealth game reworked for VR — **free if you own the base *Republique*** | [Steam](https://store.steampowered.com/app/915200/Republique_VR/) | ⚪ |
 | **Memories From Beyond a Coral Sea** | Gorgeous short voyage through mystical Pacific islands — *launched free; now a low-cost paid app* | [Steam](https://store.steampowered.com/app/2318280/) | ⚪ |
 
 ---
