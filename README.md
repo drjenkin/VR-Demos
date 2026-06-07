@@ -193,6 +193,26 @@ Also handy on archive.org:
 
 ---
 
+## 🆘 Help wanted — lost builds we're trying to preserve
+
+A few classics no longer have a working public download (marked ❌ in the tables above). If you
+have an original build saved on an old drive, you can help keep it alive: **open an issue or PR**
+and we'll mirror it (e.g. to the Internet Archive) and add a proper link — full credit to you.
+
+Currently hunting:
+
+- **4th Floor Studio** — Brendan Coyle / QuiteNice (filenames `4thFlrStudioVR(SDKv0.7.0.0).zip`, `4thFlrStudioVR(ViveEdition).zip`, `QuiteNice_4thFlrStudio.apk`)
+- **Couch Knights** — Epic Games (the original UE4 demo build)
+- **Back to Dinosaur Island — Pt 1 & 2** — Crytek (delisted from Steam)
+- **Lost** — Oculus Story Studio (the studio's first film)
+- **Senza Peso** — Kite & Lightning (the DK2 build)
+
+> 🙏 Please only share files you have the right to distribute — and **don't pester the original
+> creators**; many have moved on. We're looking for copies already sitting in people's download
+> folders, not asking anyone to dig up or re-host their own work.
+
+---
+
 ## Where to find more
 
 - **itch.io — free Oculus Rift / DK2-tagged games:** [itch.io/games/free/oculus-rift/tag-dk2](https://itch.io/games/free/oculus-rift/tag-dk2)
@@ -203,7 +223,6 @@ Also handy on archive.org:
 - **360Rumors — 18 free games to demo your HTC Vive:** [360rumors.com](https://360rumors.com/18-free-games-to-demo-your-htc-vive/)
 - **PCWorld — 41 best Oculus Rift games, demos & experiences:** [pcworld.com](https://www.pcworld.com/article/440252/the-41-best-oculus-rift-virtual-reality-games-demos-and-experiences.html)
 - **The Rift Arcade — DK2 supported games list** (now offline; try Wayback): `theriftarcade.com/oculus-rift-dk2-supported-games`
-- **Oculus/Meta community forums — "DK2 Compatible Demos and Games"** (login-walled now): thread id `192031`
 
 ---
 
