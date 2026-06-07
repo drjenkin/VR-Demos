@@ -6,10 +6,12 @@ free experiences that carry the same spirit. Think photorealistic room/apartment
 architectural walkthroughs, "interesting spaces," and small showcase experiences that
 people built and shared for the joy of it.
 
-> **Scope:** Free (or formerly free) tech demos for **any PC-compatible headset** — Oculus
-> Rift (DK1/DK2/CV1), HTC Vive, Valve Index, and Quest via Link. This repo curates **links
-> only**; we don't host any files. Where an original download is gone, we point to the
-> Internet Archive or Wayback Machine capture.
+> **Scope:** Free (or formerly free) tech demos for **PC VR** — Oculus Rift (DK1/DK2/CV1),
+> HTC Vive, Valve Index, and Quest **via Link/cable** (i.e. driven by a PC). Where a demo
+> shipped several builds, we link the **PC-VR build**; standalone/sideload-only builds are out
+> of scope, since those headsets have their own sideloading channels. This repo curates **links
+> only**; we don't host any files. Where an original download is gone, we point to the Internet
+> Archive or Wayback Machine capture.
 
 ## How to read the tables
 
@@ -25,7 +27,7 @@ people built and shared for the joy of it.
 | Demo | Creator | What it is | Link(s) | Status | Notes for today |
 |---|---|---|---|---|---|
 | **4th Floor Studio** | Brendan Coyle (QuiteNice) | Photorealistic 3D scan of a real studio apartment — the classic "presence" demo | [Wayback page (reference)](http://web.archive.org/web/20190919042904/https://www.quitenice.co/blog/2014/8/3/4thflrstudio) | ❌ | Originally had DK2 (SDK 0.7), Vive, and standalone Quest builds (~215 MB). **Downloads are dead** — the creator's site and all Dropbox links are gone, and no archive.org mirror exists. Listed for reference; a working copy is currently lost. |
-| **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | [Official site](https://www.benoitdereau.com/) · [Wayback (1.3 w/ Oculus build)](http://web.archive.org/web/20150403090140/http://www.benoitdereau.com:80/unrealparis.html) | 🟡/✅ | Original had Windows / Oculus / Android builds. 2018 update supports Rift + Vive. |
+| **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | [Rift/Vive build (2018 v1.1)](https://web.archive.org/web/20190506195939/https://www.benoitdereau.com/Builds/Unreal_Paris/UnrealParis2018%20_1.1_Desktop&VR.exe) · [period DK2 Oculus build (v1.3.4)](https://web.archive.org/web/20151001193446/http://www.benoitdereau.com/Unreal_Paris_1.3.4_-_Windows_32_Bit_-_Oculus_Edition.exe) | ✅ | ~275 MB via Wayback (verified hosted file). 2018 edition = desktop + Rift/Vive; period-correct DK2 Oculus build also archived. |
 | **Jerry's Place** | Greg Miller | A lovingly detailed recreation of Jerry's apartment from *Seinfeld* — explore the iconic set, with 11 hidden episode references | [Official site](http://jerrysplacevr.com/) · [RoadToVR writeup](https://www.roadtovr.com/seinfeld-apartment-for-oculus-rift-download/) | ✅ | Built in Unity for DK1/DK2. Free for Windows/Mac/Linux. The quintessential "interesting space." |
 | **Blade Runner 9732** | Quentin Lengele | Painstaking recreation of Deckard's apartment (#9732) from *Blade Runner* — sit on the balcony over the rain-soaked city and use the ESPER machine | [Google Drive (beta build)](https://drive.usercontent.google.com/download?id=1slhF9WAIoB1hXyq7Y_UcjOCa9Xpta6Aq&export=download&authuser=0) · [Official site](https://www.br9732.com/) | ✅ | Free hobby project (zero budget, built over years). Vive for VR; also playable flat in first-person mode. |
 | **Arch Virtual — Residential Condo** | Arch Virtual | Explorable condo arch-viz with material/color config, built in Unity 5 (Immerse) | [Blog + DK2 download](https://archvirtual.com/2015/11/10/architectural-visualization-virtual-reality/) · [Demo page](https://archvirtual.com/architectural-visualization-demo/) | ⚪ | DK2 build. Studio later shipped *Arch Virtual HQ* free on Steam. |
@@ -236,7 +238,9 @@ DK2-era demos predate the modern OpenXR/OpenVR stack. Typical paths:
    **[OpenComposite](https://gitlab.com/znixian/OpenOVR)** to translate old Oculus/OpenVR calls
    to your current runtime. Results vary — some demos work great, others not at all.
 3. **OpenVR builds** (e.g. SightLine v1.10) generally work directly through SteamVR.
-4. **Standalone APKs** (e.g. 4th Floor Studio's Quest build) sideload onto a Quest.
+
+> **Note:** this collection targets **PC VR**. Where a demo also had a standalone (Quest) build,
+> we link the PC version — standalone sideloading is out of scope.
 
 > ⚠️ **Comfort note:** early demos often have imperfect tracking/latency and can be more
 > nausea-inducing than modern VR. Start short.
