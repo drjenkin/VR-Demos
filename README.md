@@ -29,7 +29,7 @@ people built and shared for the joy of it.
 | **Jerry's Place** | Greg Miller | A lovingly detailed recreation of Jerry's apartment from *Seinfeld* — explore the iconic set, with 11 hidden episode references | [Official site](http://jerrysplacevr.com/) · [RoadToVR writeup](https://www.roadtovr.com/seinfeld-apartment-for-oculus-rift-download/) | ✅ | Built in Unity for DK1/DK2. Free for Windows/Mac/Linux. The quintessential "interesting space." |
 | **Blade Runner 9732** | Quentin Lengele | Painstaking recreation of Deckard's apartment (#9732) from *Blade Runner* — sit on the balcony over the rain-soaked city and use the ESPER machine | [Google Drive (beta build)](https://drive.usercontent.google.com/download?id=1slhF9WAIoB1hXyq7Y_UcjOCa9Xpta6Aq&export=download&authuser=0) · [Official site](https://www.br9732.com/) | ✅ | Free hobby project (zero budget, built over years). Vive for VR; also playable flat in first-person mode. |
 | **Arch Virtual — Residential Condo** | Arch Virtual | Explorable condo arch-viz with material/color config, built in Unity 5 (Immerse) | [Blog + DK2 download](https://archvirtual.com/2015/11/10/architectural-visualization-virtual-reality/) · [Demo page](https://archvirtual.com/architectural-visualization-demo/) | ⚪ | DK2 build. Studio later shipped *Arch Virtual HQ* free on Steam. |
-| **Realities** | Realities.io | Modern photogrammetry walkthroughs of real-world scanned locations — the spiritual successor to the scan demos | [Steam (free)](https://store.steampowered.com/app/420170/Realities/) · [realities.io](https://realities.io) | ⚪ | Vive/Rift/Index. Free. The best modern parallel to 4th Floor Studio. |
+| **Realities** | Realities.io | Modern photogrammetry walkthroughs of real-world scanned locations — the spiritual successor to the scan demos | [Steam (free)](https://store.steampowered.com/app/452710/Realities/) · [realities.io](https://realities.io) | ⚪ | Vive/Rift/Index. Free. The best modern parallel to 4th Floor Studio. |
 
 ---
 
@@ -82,7 +82,7 @@ SteamVR (Rift / Vive / Index / Quest via Link), no legacy runtime needed.
 |---|---|---|---|---|
 | **NVIDIA VR Funhouse** | NVIDIA | Carnival mini-games built as a flagship GPU/physics showpiece (PhysX, FleX, hair, fluids) | [Steam (free)](https://store.steampowered.com/app/468700/NVIDIA_VR_Funhouse/) | ⚪ |
 | **Trials on Tatooine** | ILMxLAB / Lucasfilm | Deflect blaster bolts with a lightsaber beside the Millennium Falcon | [Steam (free)](https://store.steampowered.com/app/381940/Trials_on_Tatooine/) | ⚪ |
-| **Back to Dinosaur Island** | Crytek | Meet a baby dino face-to-face (Pt.1), then a T-rex on a cliff ledge (Pt.2) — CryEngine showcases | [Part 1](https://store.steampowered.com/app/412940/Back_to_Dinosaur_Island/) · [Part 2](https://store.steampowered.com/app/452640/Back_to_Dinosaur_Island_Part_2/) | ⚪ |
+| **Back to Dinosaur Island** | Crytek | Meet a baby dino face-to-face (Pt.1), then a T-rex on a cliff ledge (Pt.2) — CryEngine showcases | *(delisted)* | ❌ | Crytek removed both parts from Steam; no public download remains. Listed for reference. |
 | **Portal Stories: VR** | Prism Studios | Fan-made *Portal*-universe puzzle showcase using VR mechanics | [Steam (free)](https://store.steampowered.com/app/446750/Portal_Stories_VR/) | ⚪ |
 | **Oculus First Contact** | Oculus VR | The beloved Touch intro — a friendly 1980s robot hands you toys to play with | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ | 
 | **Oculus Dreamdeck** | Oculus VR | A reel of "wow" vignettes (T-rex, city rooftop, giant by a campfire) | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ |
@@ -150,12 +150,10 @@ friend" vibe without legacy-runtime hassle.
 | **The Lab** (incl. *Aperture Robot Repair*) | Valve | Portal-universe demo collection; Robot Repair is the legendary tech showcase | [Steam (free)](https://store.steampowered.com/app/450390/The_Lab/) | ⚪ |
 | **Google Earth VR** | Google | Fly anywhere on Earth in VR | [Steam (free)](https://store.steampowered.com/app/348250/Earth_VR/) | ⚪ |
 | **Accounting** | Crows Crows Crows / Squanch | Comedic surreal VR experience | [Steam (free)](https://store.steampowered.com/app/518580/Accounting/) | ⚪ |
-| **theBlu** | Wevr | Underwater encounters (free trial / demo) | [Steam](https://store.steampowered.com/app/451520/theBlu/) | ⚪ |
-| **Colosse: A VR Fairytale** | Fire Panda | Animated VR short | [Steam (free)](https://store.steampowered.com/app/541050/Colosse_A_VR_Fairytale/) | ⚪ |
+| **Colosse: A VR Fairytale** | Fire Panda | Animated VR short | [Steam (free)](https://store.steampowered.com/app/464540/Colosse/) | ⚪ |
 | **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | [Official](https://kiteandlightning.la/senza-peso/) | ⚪ |
 | **Arch Virtual HQ** | Arch Virtual | Free arch-viz showcase from the Residential Condo makers | [Steam (free)](https://store.steampowered.com/app/608980/Arch_Virtual_HQ/) | ⚪ |
 | **Cosmic Sugar** | Brian Peiris | Hypnotic particle-field toy — grab, fling, and orbit glowing clouds of light | [Steam (free)](https://store.steampowered.com/app/559010/Cosmic_Sugar_VR/) | ⚪ |
-| **Irrational Exuberance: Prologue** | Buffalo Vision | Atmospheric sci-fi vignette set adrift in space; an early roomscale standout | [Steam (free)](https://store.steampowered.com/app/343730/Irrational_Exuberance_Prologue/) | ⚪ |
 
 ---
 
@@ -178,7 +176,6 @@ Community picks — free experiences and indie games that run on any modern Stea
 | **Glorious Noon** | Wave-based sword-and-magic hack-'n'-slash | [Steam (free)](https://store.steampowered.com/app/724870/Glorious_Noon/) | ⚪ |
 | **FPS Infinite** | A fully-free, procedurally-generated *Metroid Prime*-style shooter by Phr00t (VR optional) | [Steam (free)](https://store.steampowered.com/app/1256380/FPS_Infinite/) | ⚪ |
 | **Lazerbait** | Addictive minimalist RTS — grow ships and conquer planets | [Steam (free)](https://store.steampowered.com/app/529150/Lazerbait/) | ⚪ |
-| **Blacktop Hoops** | Free street-basketball with surprisingly deep dribble/dunk mechanics | [Steam](https://store.steampowered.com/app/1945250/Blacktop_Hoops/) | ⚪ |
 | **Open Brush** | The free, open-source, community-led continuation of Google's *Tilt Brush* — paint in 3D space | [Steam (free)](https://store.steampowered.com/app/1634870/Open_Brush/) · [GitHub](https://github.com/icosa-foundation/open-brush) | ✅ |
 | **Memories From Beyond a Coral Sea** | Gorgeous short voyage through mystical Pacific islands — *launched free; now a low-cost paid app* | [Steam](https://store.steampowered.com/app/2318280/) | ⚪ |
 
