@@ -84,10 +84,6 @@ SteamVR (Rift / Vive / Index / Quest via Link), no legacy runtime needed.
 | **Trials on Tatooine** | ILMxLAB / Lucasfilm | Deflect blaster bolts with a lightsaber beside the Millennium Falcon | [Steam (free)](https://store.steampowered.com/app/381940/Trials_on_Tatooine/) | ⚪ |
 | **Back to Dinosaur Island** | Crytek | Meet a baby dino face-to-face (Pt.1), then a T-rex on a cliff ledge (Pt.2) — CryEngine showcases | *(delisted)* | ❌ | Crytek removed both parts from Steam; no public download remains. Listed for reference. |
 | **Portal Stories: VR** | Prism Studios | Fan-made *Portal*-universe puzzle showcase using VR mechanics | [Steam (free)](https://store.steampowered.com/app/446750/Portal_Stories_VR/) | ⚪ |
-| **Oculus First Contact** | Oculus VR | The beloved Touch intro — a friendly 1980s robot hands you toys to play with | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ | 
-| **Oculus Dreamdeck** | Oculus VR | A reel of "wow" vignettes (T-rex, city rooftop, giant by a campfire) | [About (Meta)](https://www.meta.com/experiences/pcvr/) | ⚪ |
-
-> *First Contact* and *Dreamdeck* now install with the **Oculus/Meta PC app** (Library ▸ Tutorials) rather than a standalone download.
 
 ---
 
@@ -99,8 +95,6 @@ Sit-down narrative pieces from the brief golden age of VR film studios.
 |---|---|---|---|---|
 | **Invasion!** | Baobab Studios | Ethan Hawke-narrated short — two aliens vs. one fearless bunny; Cannes/Tribeca selection | [Steam (free)](https://store.steampowered.com/app/503630/INVASION/) | ⚪ |
 | **Allumette** | Penrose Studios | Wordless *Little Match Girl* fable in a floating city; one of the longest early VR films | [Steam (free)](https://store.steampowered.com/app/460850/Allumette/) | ⚪ |
-| **Dear Angelica** | Oculus Story Studio | Emmy-nominated film drawn entirely inside VR with Quill — unfolds in hand-painted strokes | [Meta Store (free)](https://www.meta.com/experiences/dear-angelica/2725629380835491/) | ⚪ |
-| **Henry** | Oculus Story Studio | Emmy-winning short about a lonely hedgehog's birthday (narr. Elijah Wood) | [Meta Store (free)](https://www.meta.com/experiences/henry/1043217179077622/) | ⚪ |
 | **Lost** | Oculus Story Studio | The studio's first film — a robot hand searching the moonlit woods | [Wikipedia](https://en.wikipedia.org/wiki/Oculus_Story_Studio) | ❌ |
 | **The Night Cafe** | Borrowed Light Studios | Step *inside* Van Gogh's paintings, rebuilt in 3D — Oculus VR Jam 2015 winner | [Steam (free)](https://store.steampowered.com/app/482390/The_Night_Cafe_A_VR_Tribute_to_Vincent_Van_Gogh/) | ⚪ |
 | **La Camila: A VR Story** | 3DAR | A tender ~20-min animated tale — help Camila and her father spin clouds from sheep's wool above a floating mountaintop farm | [Steam (free)](https://store.steampowered.com/app/770090/La_Camila_A_VR_Story/) | ⚪ |
@@ -115,7 +109,6 @@ Educational walkthroughs that scratch the same "be somewhere real/impossible" it
 | Experience | Creator | What it is | Link | Status |
 |---|---|---|---|---|
 | **Titans of Space** | DrashVR | The famous holographic tour of the solar system and largest known stars; #1 on old Oculus Share for months | [Steam (PLUS)](https://store.steampowered.com/app/468820/Titans_of_Space_PLUS/) · [stv.re info](http://stv.re/wp/titans-of-space/) | ⚪ | 
-| **Mission: ISS** | Magnopus (for Oculus) | Float through a true-to-life International Space Station; dock a capsule and spacewalk | [Meta Store (free)](https://www.meta.com/experiences/apollo-11/2164469606967296/) | ⚪ |
 | **The Body VR: Journey Inside a Cell** | The Body VR | Travel the bloodstream and inside a living cell — a beloved free showcase | [Steam (free)](https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/) | ⚪ |
 | **The VR Museum of Fine Art** | Finn Sinclair | Walk a gallery of masterworks at 1:1 scale — get nose-close to the Mona Lisa & Starry Night | [Steam (free)](https://store.steampowered.com/app/515020/The_VR_Museum_of_Fine_Art/) | ⚪ |
 | **Buzz Aldrin: Cycling Pathways to Mars** | 8i / LIFE VR / TIME | Buzz Aldrin's hologram personally walks you from the Moon to his plan for colonizing Mars | [Steam (free)](https://store.steampowered.com/app/608000/Buzz_Aldrin_Cycling_Pathways_to_Mars/) | ⚪ |
@@ -151,7 +144,7 @@ friend" vibe without legacy-runtime hassle.
 | **Google Earth VR** | Google | Fly anywhere on Earth in VR | [Steam (free)](https://store.steampowered.com/app/348250/Earth_VR/) | ⚪ |
 | **Accounting** | Crows Crows Crows / Squanch | Comedic surreal VR experience | [Steam (free)](https://store.steampowered.com/app/518580/Accounting/) | ⚪ |
 | **Colosse: A VR Fairytale** | Fire Panda | Animated VR short | [Steam (free)](https://store.steampowered.com/app/464540/Colosse/) | ⚪ |
-| **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | [Official](https://kiteandlightning.la/senza-peso/) | ⚪ |
+| **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | *(download offline)* | ❌ |
 | **Arch Virtual HQ** | Arch Virtual | Free arch-viz showcase from the Residential Condo makers | [Steam (free)](https://store.steampowered.com/app/608980/Arch_Virtual_HQ/) | ⚪ |
 | **Cosmic Sugar** | Brian Peiris | Hypnotic particle-field toy — grab, fling, and orbit glowing clouds of light | [Steam (free)](https://store.steampowered.com/app/559010/Cosmic_Sugar_VR/) | ⚪ |
 
