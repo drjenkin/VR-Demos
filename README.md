@@ -40,7 +40,6 @@ people built and shared for the joy of it.
 | Demo | Creator | What it is | Link(s) | Status | Notes |
 |---|---|---|---|---|---|
 | **Tuscany** | Oculus VR | The original villa + garden showcase; everyone's first VR memory | [archive.org (DK1/DK2)](https://archive.org/details/ovr_unity_0.4.3.1_demo_win) | 🟡 | Bundled with old Oculus Unity integration. |
-| **Sixense Tuscany (Razer Hydra)** | Sixense | Tuscany with motion-controller hands added | [archive.org](https://archive.org/details/sixense-tuscany-demo) · [RoadToVR](https://www.roadtovr.com/oculus-rift-razer-hydra-tuscany-demo-download-sixense/) | 🟡 | Needs a Razer Hydra. |
 | **UE4 Rollercoaster** | community (UE4) | The quintessential "show your friends" coaster ride | [archive.org](https://archive.org/details/ue-4-rollercoaster) | 🟡 | DK2, 0.x runtime. |
 | **SPAG Rollercoaster** | SPAG | Another early coaster ride demo | [archive.org](https://archive.org/details/spagrollercoaster) | 🟡 | DK1. |
 | **Couch Knights** | Epic Games | Epic's UE4 demo showing off DK2 positional tracking — toy knights on a coffee table | [Rev3 hands-on (video)](https://archive.org/details/Rev3Games_Previews_235) | 🟡 | Original exe hard to find; widely documented. |
