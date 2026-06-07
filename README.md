@@ -15,7 +15,8 @@ people built and shared for the joy of it.
 
 ## How to read the tables
 
-- **Link status:** ✅ live · 🟡 archive/Wayback only · ⚪ store page (still available) · ❌ dead (listed for reference)
+- **Link status:** ✅ live · 🟡 archive/Wayback only · ⚪ free store page · ❌ no working download yet — **🆘 community help wanted**
+- **Our promise:** every link is meant to *actually download*. When an early PC-VR demo has no solid file or mirror, we don't leave you a dead link — we flag it 🆘 and ask the community for a copy (see the **Help wanted** section below).
 - Most DK2-era demos need a **legacy Oculus runtime (0.5–0.8)**; modern headsets generally
   need a wrapper like **[Revive](https://github.com/LibreVR/Revive)** or
   **[OpenComposite](https://gitlab.com/znixian/OpenOVR)**. See [Running these today](#running-these-today).
@@ -27,7 +28,7 @@ people built and shared for the joy of it.
 | Demo | Creator | What it is | Link(s) | Status | Notes for today |
 |---|---|---|---|---|---|
 | **4th Floor Studio** | Brendan Coyle (QuiteNice) | Photorealistic 3D scan of a real studio apartment — the classic "presence" demo | [Wayback page (reference)](http://web.archive.org/web/20190919042904/https://www.quitenice.co/blog/2014/8/3/4thflrstudio) | ❌ | Originally had DK2 (SDK 0.7), Vive, and standalone Quest builds (~215 MB). **Downloads are dead** — the creator's site and all Dropbox links are gone, and no archive.org mirror exists. Listed for reference; a working copy is currently lost. |
-| **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | [Rift/Vive build (2018 v1.1)](https://web.archive.org/web/20190506195939/https://www.benoitdereau.com/Builds/Unreal_Paris/UnrealParis2018%20_1.1_Desktop&VR.exe) · [period DK2 Oculus build (v1.3.4)](https://web.archive.org/web/20151001193446/http://www.benoitdereau.com/Unreal_Paris_1.3.4_-_Windows_32_Bit_-_Oculus_Edition.exe) | ✅ | ~275 MB via Wayback (verified hosted file). 2018 edition = desktop + Rift/Vive; period-correct DK2 Oculus build also archived. |
+| **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | 🆘 **help wanted** | ❌ | The only surviving copies are Wayback captures, and the Rift/Vive build is **truncated — it fails mid-download** (~200 MB in). Seeking a complete Rift/Vive build or a solid mirror. |
 | **Jerry's Place** | Greg Miller | A lovingly detailed recreation of Jerry's apartment from *Seinfeld* — explore the iconic set, with 11 hidden episode references | [Official site](http://jerrysplacevr.com/) · [RoadToVR writeup](https://www.roadtovr.com/seinfeld-apartment-for-oculus-rift-download/) | ✅ | Built in Unity for DK1/DK2. Free for Windows/Mac/Linux. The quintessential "interesting space." |
 | **Blade Runner 9732** | Quentin Lengele | Painstaking recreation of Deckard's apartment (#9732) from *Blade Runner* — sit on the balcony over the rain-soaked city and use the ESPER machine | [Google Drive (beta build)](https://drive.usercontent.google.com/download?id=1slhF9WAIoB1hXyq7Y_UcjOCa9Xpta6Aq&export=download&authuser=0) · [Official site](https://www.br9732.com/) | ✅ | Free hobby project (zero budget, built over years). Vive for VR; also playable flat in first-person mode. |
 | **Arch Virtual — Residential Condo** | Arch Virtual | Explorable condo arch-viz with material/color config, built in Unity 5 (Immerse) | [Blog + DK2 download](https://archvirtual.com/2015/11/10/architectural-visualization-virtual-reality/) · [Demo page](https://archvirtual.com/architectural-visualization-demo/) | ⚪ | DK2 build. Studio later shipped *Arch Virtual HQ* free on Steam. |
@@ -208,6 +209,7 @@ Currently hunting:
 - **Back to Dinosaur Island — Pt 1 & 2** — Crytek (delisted from Steam)
 - **Lost** — Oculus Story Studio (the studio's first film)
 - **Senza Peso** — Kite & Lightning (the DK2 build)
+- **Unreal Paris** — Benoît Dereau (the Rift/Vive build; surviving Wayback captures are truncated and fail mid-download)
 
 > 🙏 Please only share files you have the right to distribute — and **don't pester the original
 > creators**; many have moved on. We're looking for copies already sitting in people's download
