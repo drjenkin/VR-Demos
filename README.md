@@ -16,7 +16,6 @@ people built and shared for the joy of it.
 ## How to read the tables
 
 - **Link status:** ✅ live · 🟡 archive/Wayback only · ⚪ free store page · ❌ no working download yet — **🆘 community help wanted**
-- **Our promise:** every link is meant to *actually download*. When an early PC-VR demo has no solid file or mirror, we don't leave you a dead link — we flag it 🆘 and ask the community for a copy (see the **Help wanted** section below).
 - Most DK2-era demos need a **legacy Oculus runtime (0.5–0.8)**; modern headsets generally
   need a wrapper like **[Revive](https://github.com/LibreVR/Revive)** or
   **[OpenComposite](https://gitlab.com/znixian/OpenOVR)**. See [Running these today](#running-these-today).
