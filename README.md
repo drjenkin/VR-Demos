@@ -1,5 +1,7 @@
 # Early VR Tech Demos — A Curated Archive
 
+![A few of the experiences in this archive: The Night Cafe, Tuscany, the Spirited Away boiler room (Red of Paw), and Allumette](assets/showcase.jpg)
+
 A community collection of the experimental, homebrew, and showcase **VR tech demos** from
 the early PC-VR era — the vibrant Oculus Rift DK2 days of 2014–2016 — plus a few later
 free experiences that carry the same spirit. Think photorealistic room/apartment scans,
