@@ -6,6 +6,9 @@
 *.exe
 *.msi
 
+# Local promo/screenshot assets (third-party press images) — not for the repo
+/tweet-assets/
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
