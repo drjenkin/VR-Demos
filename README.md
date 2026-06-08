@@ -26,12 +26,12 @@ people built and shared for the joy of it.
 
 | Demo | Creator | What it is | Link(s) | Status | Notes for today |
 |---|---|---|---|---|---|
-| **4th Floor Studio** | Brendan Coyle (QuiteNice) | Photorealistic 3D scan of a real studio apartment — the classic "presence" demo | [Wayback page (reference)](http://web.archive.org/web/20190919042904/https://www.quitenice.co/blog/2014/8/3/4thflrstudio) | ❌ | Originally had DK2 (SDK 0.7), Vive, and standalone Quest builds (~215 MB). **Downloads are dead** — the creator's site and all Dropbox links are gone, and no archive.org mirror exists. Listed for reference; a working copy is currently lost. |
+| **4th Floor Studio** | Brendan Coyle (QuiteNice) | Photorealistic 3D scan of a real studio apartment — the classic "presence" demo | 🆘 **help wanted** · [Wayback (reference)](http://web.archive.org/web/20190919042904/https://www.quitenice.co/blog/2014/8/3/4thflrstudio) | ❌ | Originally had DK2 (SDK 0.7), Vive, and standalone Quest builds (~215 MB). **Downloads are dead** — the creator's site and all Dropbox links are gone, and no archive.org mirror exists. Listed for reference; a working copy is currently lost. |
 | **Unreal Paris** | Benoît Dereau | Famous photorealistic Paris apartment arch-viz in UE4 | 🆘 **help wanted** | ❌ | The only surviving copies are Wayback captures, and the Rift/Vive build is **truncated — it fails mid-download** (~200 MB in). Seeking a complete Rift/Vive build or a solid mirror. |
 | **Jerry's Place** | Greg Miller | A lovingly detailed recreation of Jerry's apartment from *Seinfeld* — explore the iconic set, with 11 hidden episode references | [Official site](http://jerrysplacevr.com/) · [RoadToVR writeup](https://www.roadtovr.com/seinfeld-apartment-for-oculus-rift-download/) | ✅ | Built in Unity for DK1/DK2. Free for Windows/Mac/Linux. The quintessential "interesting space." |
 | **Blade Runner 9732** | Quentin Lengele | Painstaking recreation of Deckard's apartment (#9732) from *Blade Runner* — sit on the balcony over the rain-soaked city and use the ESPER machine | [Google Drive (beta build)](https://drive.usercontent.google.com/download?id=1slhF9WAIoB1hXyq7Y_UcjOCa9Xpta6Aq&export=download&authuser=0) · [Official site](https://www.br9732.com/) | ✅ | Free hobby project (zero budget, built over years). Vive for VR; also playable flat in first-person mode. |
 | **Arch Virtual — Residential Condo** | Arch Virtual | Explorable condo arch-viz with material/color config, built in Unity 5 (Immerse) | [Blog + DK2 download](https://archvirtual.com/2015/11/10/architectural-visualization-virtual-reality/) · [Demo page](https://archvirtual.com/architectural-visualization-demo/) | ⚪ | DK2 build. Studio later shipped *Arch Virtual HQ* free on Steam. |
-| **Realities** | Realities.io | Modern photogrammetry walkthroughs of real-world scanned locations — the spiritual successor to the scan demos | [Steam (free)](https://store.steampowered.com/app/452710/Realities/) · [realities.io](https://realities.io) | ⚪ | Vive/Rift/Index. Free. The best modern parallel to 4th Floor Studio. |
+| **Realities** | Realities.io | Modern photogrammetry walkthroughs of real-world scanned locations — the spiritual successor to the scan demos | [Steam (free)](https://store.steampowered.com/app/452710/Realities/) · [realities.io](https://realities.io) | ⚪ | Vive/Rift/Index. Free. Real locations captured in high-detail photogrammetry. |
 
 ---
 
@@ -112,6 +112,10 @@ Educational walkthroughs that scratch the same "be somewhere real/impossible" it
 | **The Body VR: Journey Inside a Cell** | The Body VR | Travel the bloodstream and inside a living cell — a beloved free showcase | [Steam (free)](https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/) | ⚪ |
 | **The VR Museum of Fine Art** | Finn Sinclair | Walk a gallery of masterworks at 1:1 scale — get nose-close to the Mona Lisa & Starry Night | [Steam (free)](https://store.steampowered.com/app/515020/The_VR_Museum_of_Fine_Art/) | ⚪ |
 | **Buzz Aldrin: Cycling Pathways to Mars** | 8i / LIFE VR / TIME | Buzz Aldrin's hologram personally walks you from the Moon to his plan for colonizing Mars | [Steam (free)](https://store.steampowered.com/app/608000/Buzz_Aldrin_Cycling_Pathways_to_Mars/) | ⚪ |
+| **Nefertari: Journey to Eternity** | Experius VR | Step inside Queen Nefertari's 3,200-year-old tomb in the Valley of the Queens — millimetre-accurate photogrammetry | [Steam (free)](https://store.steampowered.com/app/861400/Nefertari_Journey_to_Eternity/) | ⚪ |
+| **Mona Lisa: Beyond the Glass** | Louvre / Emissive / HTC Vive Arts | The Louvre's first VR experience — get nose-close to the Mona Lisa and da Vinci's techniques | [Steam (free)](https://store.steampowered.com/app/1172310/Mona_Lisa_Beyond_The_Glass/) | ⚪ |
+| **CAPCOM GO! Apollo VR Planetarium** | NSC Creative | Sit beneath a full planetarium dome — explore stars, constellations and the Apollo story | [Steam (free)](https://store.steampowered.com/app/1116650/CAPCOM_GO_Apollo_VR_Planetarium/) | ⚪ |
+| **SteamVR Home** (formerly Valve *Destinations*) | Valve | The free successor to *Destinations* — explore community photogrammetry scenes (Mars, real-world places) from the Workshop | [SteamVR (free)](https://store.steampowered.com/app/250820/SteamVR/) · [Destinations Workshop](https://steamcommunity.com/app/250820/workshop/) | ⚪ |
 
 > *Titans of Space*'s original DK1/DK2 build was free; the current *PLUS* edition is a low-cost paid release.
 
@@ -253,3 +257,7 @@ and headset/runtime notes. Links only — we don't host binaries.
 *Disclaimer: links point to third-party and archival sources; we don't host or own this
 content. Some files are very old and may carry the usual risks of running legacy executables —
 use your judgement.*
+
+---
+
+*Made with the help of Claude Code.*
