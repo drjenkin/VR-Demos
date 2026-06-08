@@ -83,7 +83,6 @@ SteamVR (Rift / Vive / Index / Quest via Link), no legacy runtime needed.
 |---|---|---|---|---|
 | **NVIDIA VR Funhouse** | NVIDIA | Carnival mini-games built as a flagship GPU/physics showpiece (PhysX, FleX, hair, fluids) | [Steam (free)](https://store.steampowered.com/app/468700/NVIDIA_VR_Funhouse/) | ⚪ |
 | **Trials on Tatooine** | ILMxLAB / Lucasfilm | Deflect blaster bolts with a lightsaber beside the Millennium Falcon | [Steam (free)](https://store.steampowered.com/app/381940/Trials_on_Tatooine/) | ⚪ |
-| **Back to Dinosaur Island** | Crytek | Meet a baby dino face-to-face (Pt.1), then a T-rex on a cliff ledge (Pt.2) — CryEngine showcases | *(delisted)* | ❌ | Crytek removed both parts from Steam; no public download remains. Listed for reference. |
 | **Portal Stories: VR** | Prism Studios | Fan-made *Portal*-universe puzzle showcase using VR mechanics | [Steam (free)](https://store.steampowered.com/app/446750/Portal_Stories_VR/) | ⚪ |
 
 ---
@@ -145,7 +144,7 @@ friend" vibe without legacy-runtime hassle.
 | **Google Earth VR** | Google | Fly anywhere on Earth in VR | [Steam (free)](https://store.steampowered.com/app/348250/Earth_VR/) | ⚪ |
 | **Accounting** | Crows Crows Crows / Squanch | Comedic surreal VR experience | [Steam (free)](https://store.steampowered.com/app/518580/Accounting/) | ⚪ |
 | **Colosse: A VR Fairytale** | Fire Panda | Animated VR short | [Steam (free)](https://store.steampowered.com/app/464540/Colosse/) | ⚪ |
-| **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | *(download offline)* | ❌ |
+| **Senza Peso** | Kite & Lightning | Operatic cinematic VR (early DK2 standout) | [Steam (free)](https://store.steampowered.com/app/496190/Senza_Peso/) | ⚪ |
 | **Arch Virtual HQ** | Arch Virtual | Free arch-viz showcase from the Residential Condo makers | [Steam (free)](https://store.steampowered.com/app/608980/Arch_Virtual_HQ/) | ⚪ |
 | **Cosmic Sugar** | Brian Peiris | Hypnotic particle-field toy — grab, fling, and orbit glowing clouds of light | [Steam (free)](https://store.steampowered.com/app/559010/Cosmic_Sugar_VR/) | ⚪ |
 
@@ -204,9 +203,7 @@ Currently hunting:
 
 - **4th Floor Studio** — Brendan Coyle / QuiteNice (filenames `4thFlrStudioVR(SDKv0.7.0.0).zip`, `4thFlrStudioVR(ViveEdition).zip`, `QuiteNice_4thFlrStudio.apk`)
 - **Couch Knights** — Epic Games (the original UE4 demo build)
-- **Back to Dinosaur Island — Pt 1 & 2** — Crytek (delisted from Steam)
 - **Lost** — Oculus Story Studio (the studio's first film)
-- **Senza Peso** — Kite & Lightning (the DK2 build)
 - **Unreal Paris** — Benoît Dereau (the Rift/Vive build; surviving Wayback captures are truncated and fail mid-download)
 
 > 🙏 Please only share files you have the right to distribute — and **don't pester the original
